@@ -49,8 +49,7 @@
   - 복잡한 조건 처리
   - 순차적 평가
   - 구조의 복잡성
-  - 분기의 다양성
-
+  - 분기의 다양성  
 실습 : [lab_5-1.c](https://github.com/yeeun-coder/C_C--Programming/blob/5592193484cfe5132a3315039c27c44c135fb205/03week/lab_5-1.c)
  
 ### 다중 선택문
@@ -60,6 +59,7 @@
   - case 값의 유일성
   - break 문의 중요성
   - default 절
+실습 : [switchCase.c](https://github.com/yeeun-coder/C_C--Programming/blob/f8d87203374b671b990c6cb780fbd792ffc7c4d1/03week/switchCase.c)
  
 ### 반복문
 특정 작업을 여러 번 반복적으로 실행할 때 사용하는 명령문

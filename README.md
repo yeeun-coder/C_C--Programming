@@ -222,6 +222,6 @@
   실습 : [exam8-9.c](https://github.com/yeeun-coder/C_C--Programming/blob/d79ec4ca5e9d08949daefb6a2f10427fca1baf2a/04week/exam8-9.c)
 
 ### 재귀 함수
-
+실습 : [printNum.c]
 
 

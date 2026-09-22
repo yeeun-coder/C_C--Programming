@@ -120,5 +120,6 @@
 * 난수 함수
   - rand() 함수 : 헤더 파일에 정의되어 있는 rand() 함수는 호출할 때마다 0부터 RAND_MAX 사이의 무작위 정수를 반환
   - srand() 함수 : rand() 함수에 의해 생성되는 난수 시퀀스의 시드를 설정하는 데 사용
+  - 실습 : [exam7-10.c](https://github.com/yeeun-coder/C_C--Programming/blob/a74f562f738f64cb0254f41f6317aa5ea76f5140/04week/exam7-10.c)
  
 * 수학 함수 : 특정 수학적 연산이나 계산으로 수행하는 함수

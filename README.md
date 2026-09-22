@@ -59,14 +59,14 @@
   - 정수(문자, 숫자) 및 열거형 값만 가능
   - case 값의 유일성
   - break 문의 중요성
-  - default 절  
-
-실습 : [switchCase.c](https://github.com/yeeun-coder/C_C--Programming/blob/f8d87203374b671b990c6cb780fbd792ffc7c4d1/03week/switchCase.c)
+  - default 절
+  - 실습 : [switchCase.c](https://github.com/yeeun-coder/C_C--Programming/blob/f8d87203374b671b990c6cb780fbd792ffc7c4d1/03week/switchCase.c)
  
 ### 반복문
 특정 작업을 여러 번 반복적으로 실행할 때 사용하는 명령문
 * while 문 : 주어진 조건이 참인 동안 특정 코드 블록을 반복적으로 실행하는 제어 명령문
   - 동작 원리 : 조건식 -> 코드 실행 -> 조건식 평가 반복 -> 프로그램 종료
+  - 실습 : [while.c](https://github.com/yeeun-coder/C_C--Programming/blob/5e3fc80b568788bc56f047beecf81660268ff1ce/03week/while.c)
  
 * do while 문 : 주어진 조건이 참인 동안 블록 내부의 코드를 반복적으로 실행하는 제어 명령문
   - 동작 원리 : 코드 실행 -> 조건식 -> 조건식의 결과에 따른 코드 실행

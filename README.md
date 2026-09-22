@@ -222,6 +222,9 @@
   실습 : [exam8-9.c](https://github.com/yeeun-coder/C_C--Programming/blob/d79ec4ca5e9d08949daefb6a2f10427fca1baf2a/04week/exam8-9.c)
 
 ### 재귀 함수
-실습 : [printNum.c]
+* 재귀 함수 : 직접적 또는 간접적으로 자신을 호출하는 함수
+* 기본 사례 : 재귀 함수가 더 이상 자신을 호출하지 않고 종료되는 조건
+* 재귀 사례 : 수가 자신을 다시 호출하는 조건
+  실습 : [printNum.c](https://github.com/yeeun-coder/C_C--Programming/blob/15ce516eaea5c104956c8bc664c59710bddf596f/04week/printNum.c)
 
 

@@ -75,6 +75,7 @@
   - 동작 원리 : 초기화 -> 조건식 -> 증감식
  
 * 다중 for 문 : for 문 안에 또 다른 for 문이 포함된 구조 (외부 반복문이 내부 반복문보다 먼저 시작)
+  - 실습 : [for.c](https://github.com/yeeun-coder/C_C--Programming/blob/8743fc65b21857990f281c28d337e9247a5ee0fc/03week/for.c)
 
 ### 분기문
 * break 문 : 제어 흐름 문장 중 하나로, 반복문 또는 switch 문에서 현재 실행 중인 코드를 즉시 종료하고 해당 블록 바로 다음의 코드로 제어 전달

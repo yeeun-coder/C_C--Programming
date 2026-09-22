@@ -25,6 +25,8 @@
 * 반복문 : 프로그램에서 특정 코드를 반복하여 실행하는 제어문
 * 제어문의 구조 : 순차 구조, 선택 구조, 반복 구조
 
+실습 : [evenOdd.c](https://github.com/yeeun-coder/C_C--Programming/blob/14d71dd90af41c07d65ef86c8d1e80d3b6ef0a9c/03week/evenOdd.c)
+
 ### if 문
 * 단순 if 문 : 조건식을 판단하여 참인지 거짓인지 결정
   - 조건식 평가

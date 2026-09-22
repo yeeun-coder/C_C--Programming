@@ -50,6 +50,8 @@
   - 순차적 평가
   - 구조의 복잡성
   - 분기의 다양성
+
+실습 : [lab_5-1.c]()
  
 ### 다중 선택문
 * switch case 문 : 하나의 변수나 표현식의 값에 다라 여러 가지 선택 사항 중 하나를 선택하여 실행할 때 사용
@@ -227,4 +229,6 @@
 * 재귀 사례 : 수가 자신을 다시 호출하는 조건  
   실습 : [printNum.c](https://github.com/yeeun-coder/C_C--Programming/blob/15ce516eaea5c104956c8bc664c59710bddf596f/04week/printNum.c)
 
-
+<br><br>
+## 5주차
+(4주차 PDF p.46부터)

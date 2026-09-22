@@ -51,7 +51,7 @@
   - 구조의 복잡성
   - 분기의 다양성
 
-실습 : [lab_5-1.c]()
+실습 : [lab_5-1.c](https://github.com/yeeun-coder/C_C--Programming/blob/5592193484cfe5132a3315039c27c44c135fb205/03week/lab_5-1.c)
  
 ### 다중 선택문
 * switch case 문 : 하나의 변수나 표현식의 값에 다라 여러 가지 선택 사항 중 하나를 선택하여 실행할 때 사용

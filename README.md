@@ -90,4 +90,22 @@
       //실행될 코드
     }
     ```
+  - 함수 호출 : 괄호 안에 매개변수의 자료형과 개수, 반환 받을 변수의 자료형을 정확히 작성
+    호출 함수
+    ```c
+    void greeting(void);  //함수 선언
+    int main(void)
+    {
+      greeting();  //함수 호출
+      return 0;
+    }
+    ```
+    피호출 함수
+    ```c
+    void greeting(void);  //함수 정의
+    {
+      printf("Hello World!")
+      return;
+    }
+    ```
 

@@ -218,13 +218,13 @@
   - va_list : 가변 매개변수 목록을 저장하기 위한 자료형
   - va_start : 가변 매개변수 목록의 시작을 초기화하는 매크로
   - va_arg : 가변 매개변수 목록에서 다음 인자를 가져오는 매크로
-  - va_end : 가변 매개변수 처리가 끝났음을 나타내며, 목록을 정리하는 매크로
+  - va_end : 가변 매개변수 처리가 끝났음을 나타내며, 목록을 정리하는 매크로  
   실습 : [exam8-9.c](https://github.com/yeeun-coder/C_C--Programming/blob/d79ec4ca5e9d08949daefb6a2f10427fca1baf2a/04week/exam8-9.c)
 
 ### 재귀 함수
 * 재귀 함수 : 직접적 또는 간접적으로 자신을 호출하는 함수
 * 기본 사례 : 재귀 함수가 더 이상 자신을 호출하지 않고 종료되는 조건
-* 재귀 사례 : 수가 자신을 다시 호출하는 조건
+* 재귀 사례 : 수가 자신을 다시 호출하는 조건  
   실습 : [printNum.c](https://github.com/yeeun-coder/C_C--Programming/blob/15ce516eaea5c104956c8bc664c59710bddf596f/04week/printNum.c)
 
 

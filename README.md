@@ -320,7 +320,8 @@
   - 배열의 크기 계산 필요 없어 효율적
   - 실습1 : [array.c](https://github.com/yeeun-coder/C_C--Programming/blob/2c85e670d9460ca12a1051c8d046d1278e6c0591/05week/array.c)
   - 실습2 : [array2.c](https://github.com/yeeun-coder/C_C--Programming/blob/0ab1280a6c9f36bb5a1165bb7a1655f16ea18c4f/05week/array2.c)
-  - 실습3 : [array3.c]()
+  - 실습3 : [array3.c](https://github.com/yeeun-coder/C_C--Programming/blob/9a527bf1cd4a486eaf7c5a0344b4124e880c4ab9/05week/array3.c)
+  - 실습4 : [array4.c]()
  
 ### 배열의 활용
 * 배열과 최댓값

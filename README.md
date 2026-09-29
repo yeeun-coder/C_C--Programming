@@ -328,10 +328,23 @@
 * 배열과 역순 출력 : 문자열 을 뒤집거나 특정 조건을 충족하는 배열의 부분을 찾아내는 것과 같은 다양한 상황에 유용
 * 배열과 정렬
   - 버블 정렬 : 가장 인접한 두 요소부터 가장 멀리 있는 요소까지 비교해가면서 위치를 바꾸는 작업을 반복함으로써 최댓값인 요소가 마지막 위치에 자리하는 방식의 정렬
-    실습 : [exam9-11.c]()
+    실습 : [exam9-11.c](https://github.com/yeeun-coder/C_C--Programming/blob/cc05cfd7163173f9adc9e74dfc7858b626a674be/05week/exam9-11.c)
+```c
+#include <stdio.h>
 
-### 2차원 배열
+int main() {
+  int a[5] = {10, 20, 30, 40, 50};
+  int *p = a;
 
+  printf("%d", sizeof(a));     // 20byte
+  printf("%d", sizeof(a[0]));  // 4byte
+  printf("%d", sizeof(p));     // 8byte
+  printf("%d", sizeof(*p));    // 4byte
+}
+```
 
+## 6주차
+(4주차 PDF p.101부터)
+### 함수의 개요
 
 

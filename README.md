@@ -321,12 +321,14 @@
   - 실습1 : [array.c](https://github.com/yeeun-coder/C_C--Programming/blob/2c85e670d9460ca12a1051c8d046d1278e6c0591/05week/array.c)
   - 실습2 : [array2.c](https://github.com/yeeun-coder/C_C--Programming/blob/0ab1280a6c9f36bb5a1165bb7a1655f16ea18c4f/05week/array2.c)
   - 실습3 : [array3.c](https://github.com/yeeun-coder/C_C--Programming/blob/9a527bf1cd4a486eaf7c5a0344b4124e880c4ab9/05week/array3.c)
-  - 실습4 : [array4.c]()
+  - 실습4 : [array4.c](https://github.com/yeeun-coder/C_C--Programming/blob/5b4b0ddfbdbe879d2b3cfdabdd0a5c10a1f7908c/05week/array4.c)
  
 ### 배열의 활용
-* 배열과 최댓값
-* 배열과 역순 출력
+* 배열과 최댓값 : 배열의 최댓값은 데이터의 범위를 파악하는 데 중요한 요인
+* 배열과 역순 출력 : 문자열 을 뒤집거나 특정 조건을 충족하는 배열의 부분을 찾아내는 것과 같은 다양한 상황에 유용
 * 배열과 정렬
+  - 버블 정렬 : 가장 인접한 두 요소부터 가장 멀리 있는 요소까지 비교해가면서 위치를 바꾸는 작업을 반복함으로써 최댓값인 요소가 마지막 위치에 자리하는 방식의 정렬
+    실습 : [exam9-11.c]()
 
 ### 2차원 배열
 

@@ -375,9 +375,8 @@ int main() {
 | 옆에 있는 것끼리 비교해서 교환 | 가장 작은 것을 찾아서 교환 | 현재 값을 뽑아서 알맞은 곳에 삽입 |
 | arr[j]와 arr[j+1] 비교 | minIndex | key + while |
 
-* 행, 열
-  - 실습1 : [star.c](https://github.com/yeeun-coder/C_C--Programming/blob/24daa9546c1e80d8953819efdc370613bf4bb639/06week/star.c)
-  - 실습2 : [star2.c]()
+- 실습1 : [star.c](https://github.com/yeeun-coder/C_C--Programming/blob/24daa9546c1e80d8953819efdc370613bf4bb639/06week/star.c)
+- 실습2 : [star2.c](https://github.com/yeeun-coder/C_C--Programming/blob/dfc7182247f424e7736a3760ba9ede0d11b37766/06week/star2.c)
 
 
 

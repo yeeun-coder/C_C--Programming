@@ -354,6 +354,7 @@ int main() {
   - 교환 방식 : 인접한 값끼리 계속 교환
   - 특징 : 가장 단순
   - [bubbleSort.c](https://github.com/yeeun-coder/C_C--Programming/blob/ca22a2860abe162770e5d379c42ae895046dbfe5/06week/bubbleSort.c)
+  - <img width="795" height="569" alt="Image" src="https://github.com/user-attachments/assets/821415e3-e0f0-46be-b78e-7a93c918938a" />
 
 * 선택 정렬 : 가장 작은 값을 찾아서 앞으로 보내는 방식
   - 주요 변수 : i, j, minIndex

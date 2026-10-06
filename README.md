@@ -375,10 +375,11 @@ int main() {
 | 옆에 있는 것끼리 비교해서 교환 | 가장 작은 것을 찾아서 교환 | 현재 값을 뽑아서 알맞은 곳에 삽입 |
 | arr[j]와 arr[j+1] 비교 | minIndex | key + while |
 
-- 실습1(증가) : [star.c](https://github.com/yeeun-coder/C_C--Programming/blob/24daa9546c1e80d8953819efdc370613bf4bb639/06week/star.c)
-- 실습2(감소) : [star2.c](https://github.com/yeeun-coder/C_C--Programming/blob/499b55bbd3220e865c46096379e26b8ced851da1/06week/star2.c)
-- 실습3(증가 감소) : [star3.c](https://github.com/yeeun-coder/C_C--Programming/blob/13efc6c50559652037f6811891793990cb9b6bd0/06week/star3.c)
-- 실습4(증가 감소, if 사용) : [star4.c](https://github.com/yeeun-coder/C_C--Programming/blob/8897706bc432c910034405e63f73621fd3e393c4/06week/star4.c)
+* 실습
+  - 실습1(증가) : [star.c](https://github.com/yeeun-coder/C_C--Programming/blob/24daa9546c1e80d8953819efdc370613bf4bb639/06week/star.c)
+  - 실습2(감소) : [star2.c](https://github.com/yeeun-coder/C_C--Programming/blob/499b55bbd3220e865c46096379e26b8ced851da1/06week/star2.c)
+  - 실습3(증가 감소) : [star3.c](https://github.com/yeeun-coder/C_C--Programming/blob/13efc6c50559652037f6811891793990cb9b6bd0/06week/star3.c)
+  - 실습4(증가 감소, if 사용) : [star4.c](https://github.com/yeeun-coder/C_C--Programming/blob/8897706bc432c910034405e63f73621fd3e393c4/06week/star4.c)
 
 
 

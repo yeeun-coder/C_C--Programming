@@ -371,7 +371,7 @@ int main() {
   - <img width="787" height="664" alt="Image" src="https://github.com/user-attachments/assets/e0d0c91d-e8b8-45d0-84bc-b9fc81694508" />
 
 | 버블 정렬 | 선택 정렬 | 삽입 정렬 |
-| --- | :-- | :--: |
+| :---: | :--: | :--: |
 | 옆에 있는 것끼리 비교해서 교환 | 가장 작은 것을 찾아서 교환 | 현재 값을 뽑아서 알맞은 곳에 삽입 |
 | arr[j]와 arr[j+1] 비교 | minIndex | key + while |
 

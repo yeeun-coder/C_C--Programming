@@ -353,23 +353,30 @@ int main() {
   - 주요 변수 : i, j
   - 교환 방식 : 인접한 값끼리 계속 교환
   - 특징 : 가장 단순
-  - [bubbleSort.c](https://github.com/yeeun-coder/C_C--Programming/blob/ca22a2860abe162770e5d379c42ae895046dbfe5/06week/bubbleSort.c)
+  - 실습 : [bubbleSort.c](https://github.com/yeeun-coder/C_C--Programming/blob/ca22a2860abe162770e5d379c42ae895046dbfe5/06week/bubbleSort.c)
   - <img width="795" height="569" alt="Image" src="https://github.com/user-attachments/assets/821415e3-e0f0-46be-b78e-7a93c918938a" />
 
 * 선택 정렬 : 가장 작은 값을 찾아서 앞으로 보내는 방식
   - 주요 변수 : i, j, minIndex
   - 교환 방식 : 한 번 찾고 교환
   - 특징 : 교환 횟수가 적음
-  - [selectionSort.c](https://github.com/yeeun-coder/C_C--Programming/blob/3a8154db4cc8076b64136b729d983f5ac10375a5/06week/selectionSort.c)
+  - 실습 : [selectionSort.c](https://github.com/yeeun-coder/C_C--Programming/blob/3a8154db4cc8076b64136b729d983f5ac10375a5/06week/selectionSort.c)
   - <img width="808" height="458" alt="Image" src="https://github.com/user-attachments/assets/1cc7f1b8-eaf4-4332-af58-e3e625032db0" />
 
 * 삽입 정렬 : 앞쪽에 정렬되어 있는 부분에 현재 값을 알맞은 위치에 끼워 넣는 방식
   - 주요 변수 : i, j, key
   - 교환 방식 : 큰 값을 뒤로 밀고 삽입
   - 특징 : 거의 정렬된 데이터에 강함
-  - [insertionSort.c](https://github.com/yeeun-coder/C_C--Programming/blob/f9964d93f32caf43a119725d80e7f1286ed0d25d/06week/insertionSort.c)
+  - 실습 : [insertionSort.c](https://github.com/yeeun-coder/C_C--Programming/blob/f9964d93f32caf43a119725d80e7f1286ed0d25d/06week/insertionSort.c)
   - <img width="787" height="664" alt="Image" src="https://github.com/user-attachments/assets/e0d0c91d-e8b8-45d0-84bc-b9fc81694508" />
 
+| 버블 정렬 | 선택 정렬 | 삽입 정렬 |
+| --- | :-- | :--: |
+| 옆에 있는 것끼리 비교해서 교환 | 가장 작은 것을 찾아서 교환 | 현재 값을 뽑아서 알맞은 곳에 삽입 |
+| arr[j]와 arr[j+1] 비교 | minIndex | key + while |
+
+* 행, 열
+  - 실습1 : [star.c]
 
 
 

@@ -24,7 +24,7 @@
   - [배열의 활용](#배열의-활용)
 
 * [6주차](#6주차)
-  - [2차원 배열](#2차원-배열)
+  - [정렬](#정렬)
 
 <br><br>
 ## 3주차
@@ -353,7 +353,7 @@ int main() {
   - 주요 변수 : i, j
   - 교환 방식 : 인접한 값끼리 계속 교환
   - 특징 : 가장 단순
-  - [bubbleSort.c]()
+  - [bubbleSort.c](https://github.com/yeeun-coder/C_C--Programming/blob/ca22a2860abe162770e5d379c42ae895046dbfe5/06week/bubbleSort.c)
 
 * 선택 정렬 : 가장 작은 값을 찾아서 앞으로 보내는 방식
   - 주요 변수 : i, j, minIndex

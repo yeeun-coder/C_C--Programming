@@ -378,6 +378,7 @@ int main() {
 - 실습1 : [star.c](https://github.com/yeeun-coder/C_C--Programming/blob/24daa9546c1e80d8953819efdc370613bf4bb639/06week/star.c)
 - 실습2 : [star2.c](https://github.com/yeeun-coder/C_C--Programming/blob/499b55bbd3220e865c46096379e26b8ced851da1/06week/star2.c)
 - 실습3 : [star3.c](https://github.com/yeeun-coder/C_C--Programming/blob/13efc6c50559652037f6811891793990cb9b6bd0/06week/star3.c)
+- 실습4 : [star4.c](https://github.com/yeeun-coder/C_C--Programming/blob/8897706bc432c910034405e63f73621fd3e393c4/06week/star4.c)
 
 
 

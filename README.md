@@ -361,6 +361,7 @@ int main() {
   - 교환 방식 : 한 번 찾고 교환
   - 특징 : 교환 횟수가 적음
   - [selectionSort.c](https://github.com/yeeun-coder/C_C--Programming/blob/3a8154db4cc8076b64136b729d983f5ac10375a5/06week/selectionSort.c)
+  - <img width="808" height="458" alt="Image" src="https://github.com/user-attachments/assets/1cc7f1b8-eaf4-4332-af58-e3e625032db0" />
 
 * 삽입 정렬 : 앞쪽에 정렬되어 있는 부분에 현재 값을 알맞은 위치에 끼워 넣는 방식
   - 주요 변수 : i, j, key

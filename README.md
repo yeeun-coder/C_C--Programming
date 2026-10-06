@@ -159,7 +159,7 @@
   - 실습 : [exam7-10.c](https://github.com/yeeun-coder/C_C--Programming/blob/a74f562f738f64cb0254f41f6317aa5ea76f5140/04week/exam7-10.c)
  
 * 수학 함수 : 특정 수학적 연산이나 계산으로 수행하는 함수
-<br></br>
+<br/ >
 (4주차 PDF 시작)  
 ### 변수의 속성과 범위
 * 변수의 속성

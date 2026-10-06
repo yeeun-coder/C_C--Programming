@@ -365,7 +365,7 @@ int main() {
   - 주요 변수 : i, j, key
   - 교환 방식 : 큰 값을 뒤로 밀고 삽입
   - 특징 : 거의 정렬된 데이터에 강함
-  - [insertionSort.c]()
+  - [insertionSort.c](https://github.com/yeeun-coder/C_C--Programming/blob/f9964d93f32caf43a119725d80e7f1286ed0d25d/06week/insertionSort.c)
 
 
 

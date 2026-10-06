@@ -376,7 +376,8 @@ int main() {
 | arr[j]와 arr[j+1] 비교 | minIndex | key + while |
 
 * 행, 열
-  - 실습1 : [star.c]
+  - 실습1 : [star.c](https://github.com/yeeun-coder/C_C--Programming/blob/24daa9546c1e80d8953819efdc370613bf4bb639/06week/star.c)
+  - 실습2 : [star2.c]()
 
 
 

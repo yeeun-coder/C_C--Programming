@@ -359,7 +359,7 @@ int main() {
   - 주요 변수 : i, j, minIndex
   - 교환 방식 : 한 번 찾고 교환
   - 특징 : 교환 횟수가 적음
-  - [selectionSort.c]()
+  - [selectionSort.c](https://github.com/yeeun-coder/C_C--Programming/blob/3a8154db4cc8076b64136b729d983f5ac10375a5/06week/selectionSort.c)
 
 * 삽입 정렬 : 앞쪽에 정렬되어 있는 부분에 현재 값을 알맞은 위치에 끼워 넣는 방식
   - 주요 변수 : i, j, key

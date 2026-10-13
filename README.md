@@ -638,6 +638,7 @@ int main() {
 ### 문자열 입출력과 함수
 * 문자열 처리 함수
   - <string.h> 헤더 파일에 정의
+    <img width="1102" height="920" alt="Image" src="https://github.com/user-attachments/assets/7ee5ca31-fb57-482a-b3f3-f7573511eaa5" />
     
       
 

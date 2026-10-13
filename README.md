@@ -28,6 +28,9 @@
   - [실습(별)](#실습별)
   - [포인터의 개요](#포인터의-개요)
   - [포인터와 연산](#포인터와-연산)
+ 
+* [7주차](#7주차)
+  - [void형 포인터](#void형-포인터)
 
 <br><br>
 ## 3주차
@@ -501,14 +504,30 @@ int main() {
   - 포인터 연산에서 증감 연산자를 활용할 때는 주의가 필요
     <img width="800" height="250" alt="Image" src="https://github.com/user-attachments/assets/5f169c66-5d22-4321-a204-5fae05b5e44e" />
     - *p++ 연산
-      » 후위 증가 연산자가 사용되었기 때문에 p의 증가는*p가 지정된 후에 발생, 즉 현재 p가 가리키는 값을 반환한 후에 p의 주소를 증가
+      » 후위 <ins>증가 연산자가 사용되었기 때문에</ins> p의 증가는 <ins> *p가 지정된 후에 발생</ins>, 즉 현재 p가 가리키는 값을 반환한 후에 p의 주소를 증가
       » 증가 연산이 간접 참조 연산보다 뒤에 수행되므로*p++는 현재 p가 가리키는 값에 접근한 후 p를 다음 주소로 이동
     – *++p 연산
       » 먼저 포인터 변수 p를 증가시킨 다음 증가된 p가 가리키는 값을 반환
       » 여기서 ‘다음’은 포인터가 가리키는 자료형의 크 기에 따라 달라지며, 만약 p가 정수형 포인터라면 p는 연산 후 다음 정수형 변수의 주소를 가리키며 정수형의 크기인
   - 실습1 : [pointer.c](https://github.com/yeeun-coder/C_C--Programming/blob/c2c635ff09acd36f8f751e3036c370fec43c894b/week07/pointer.c)
-  - 실습2 : [pointer2.c]()
+  - 실습2 : [pointer2.c](https://github.com/yeeun-coder/C_C--Programming/blob/db8812a2b1393f284f599692934d171817988539/week07/pointer2.c)
   <img width="782" height="510" alt="Image" src="https://github.com/user-attachments/assets/eca2837f-1ade-4b34-bdb9-bce992268b94" />
   
+### void형 포인터
+* void형 포인터의 개념
+  - void형 포인터의 특징
+    * 정해진 유형 부재
+      – void형 포인터는 <ins>특정 데이터 유형에 고정되지 않음</ins>
+    * 연산 제한
+      – 직접적으로 역참조하거나 <ins>산술 연산 수행 불가</ins>
+    * 메모리 할당
+      – <ins>malloc(), calloc()</ins>(동적 메모리 할당) 등의 메모리 할당 함수는 void*형 포인터를 반환하며, 따라서 반환된 메모리 블록을 어떤 자료형으로도 사용 가능
+    * 함수 인자
+      – <ins>void형 포인터</ins>는 <ins>함수 인자</ins>로 널리 <ins>사용</ins>되며, <ins>다양한 자료형의 데이터를 처리할 수 있는 함수를 작성하는 데 유용</ins>
+
+
+
+
+
 
 

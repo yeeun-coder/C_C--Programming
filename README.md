@@ -568,7 +568,8 @@ int main() {
   * *p 는 포인터 p가 가리키는 값
     - p는 배열 a의 첫 번째 요소를 가리키므로*p는 a[0]과 같고 그 값은 2
 
-실습(배열 요소를 반전하여 출력하기) : [labArray.c]()
+실습1 (배열 요소를 반전하여 출력하기) : [labArray.c](https://github.com/yeeun-coder/C_C--Programming/blob/cc6fa97df2cff9cace716a395b08e63eaf21c603/week07/labArray.c)
+실습2 (학생 성적 정렬하기) : [labGrade.c]()
 
 
 

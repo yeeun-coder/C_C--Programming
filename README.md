@@ -527,7 +527,7 @@ int main() {
 
 * void형 포인터 변수의 사용
   - void형 포인터 변수에서 값을 읽을 때는 반드시 형 변환 연산자 사용
-    실습 : []()
+    실습 : [void_casting.c](https://github.com/yeeun-coder/C_C--Programming/blob/bf7c9dcde55074f31cf633ecd2d7b04b6c470429/week07/void_casting.c)
   
 
 

@@ -499,7 +499,13 @@ int main() {
 (6주차 PDF p.28부터)
 * 포인터 증감 연산
   - 포인터 연산에서 증감 연산자를 활용할 때는 주의가 필요
-  - 실습1 : (pointer.c)[https://github.com/yeeun-coder/C_C--Programming/tree/c2c635ff09acd36f8f751e3036c370fec43c894b/week07]
+    - *p++ 연산
+      » 후위 증가 연산자가 사용되었기 때문에 p의 증가는*p가 지정된 후에 발생, 즉 현재 p가 가리키는 값을 반환한 후에 p의 주소를 증가
+      » 증가 연산이 간접 참조 연산보다 뒤에 수행되므로*p++는 현재 p가 가리키는 값에 접근한 후 p를 다음 주소로 이동
+    – *++p 연산
+      » 먼저 포인터 변수 p를 증가시킨 다음 증가된 p가 가리키는 값을 반환
+      » 여기서 ‘다음’은 포인터가 가리키는 자료형의 크 기에 따라 달라지며, 만약 p가 정수형 포인터라면 p는 연산 후 다음 정수형 변수의 주소를 가리키며 정수형의 크기인
+  - 실습1 : [pointer.c]([https://github.com/yeeun-coder/C_C--Programming/tree/c2c635ff09acd36f8f751e3036c370fec43c894b/week07](https://github.com/yeeun-coder/C_C--Programming/blob/c2c635ff09acd36f8f751e3036c370fec43c894b/week07/pointer.c))
   <img width="782" height="510" alt="Image" src="https://github.com/user-attachments/assets/eca2837f-1ade-4b34-bdb9-bce992268b94" />
   
 

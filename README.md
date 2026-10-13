@@ -499,6 +499,8 @@ int main() {
 (6주차 PDF p.28부터)
 * 포인터 증감 연산
   - 포인터 연산에서 증감 연산자를 활용할 때는 주의가 필요
+  - 실습1 : (pointer.c)[https://github.com/yeeun-coder/C_C--Programming/tree/c2c635ff09acd36f8f751e3036c370fec43c894b/week07]
   <img width="782" height="510" alt="Image" src="https://github.com/user-attachments/assets/eca2837f-1ade-4b34-bdb9-bce992268b94" />
+  
 
 

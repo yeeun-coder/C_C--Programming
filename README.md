@@ -506,10 +506,10 @@ int main() {
     <img width="800" height="250" alt="Image" src="https://github.com/user-attachments/assets/5f169c66-5d22-4321-a204-5fae05b5e44e" />
     - *p++ 연산  
       » 후위 <ins>증가 연산자가 사용되었기 때문에</ins> p의 증가는 <ins>*p가 지정된 후에 발생</ins>, 즉 현재 p가 가리키는 값을 반환한 후에 p의 주소를 증가  
-      » 증가 연산이 간접 참조 연산보다 뒤에 수행되므로*p++는 현재 p가 가리키는 값에 접근한 후 p를 다음 주소로 이동
+      » 증가 연산이 간접 참조 연산보다 뒤에 수행되므로*p++는 현재 p가 가리키는 값에 접근한 후 p를 다음 주소로 이동  
     – *++p 연산  
       » 먼저 포인터 변수 p를 증가시킨 다음 증가된 p가 가리키는 값을 반환  
-      » 여기서 ‘다음’은 포인터가 가리키는 자료형의 크 기에 따라 달라지며, 만약 p가 정수형 포인터라면 p는 연산 후 다음 정수형 변수의 주소를 가리키며 정수형의 크기인
+      » 여기서 ‘다음’은 포인터가 가리키는 자료형의 크 기에 따라 달라지며, 만약 p가 정수형 포인터라면 p는 연산 후 다음 정수형 변수의 주소를 가리키며 정수형의 크기인  
   - 실습1 : [pointer.c](https://github.com/yeeun-coder/C_C--Programming/blob/c2c635ff09acd36f8f751e3036c370fec43c894b/week07/pointer.c)
   - 실습2 : [pointer2.c](https://github.com/yeeun-coder/C_C--Programming/blob/db8812a2b1393f284f599692934d171817988539/week07/pointer2.c)
   <img width="782" height="510" alt="Image" src="https://github.com/user-attachments/assets/eca2837f-1ade-4b34-bdb9-bce992268b94" />

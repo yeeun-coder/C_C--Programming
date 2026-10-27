@@ -4,12 +4,27 @@ int main() {
     int month;
     scanf("%d", &month);
 
-    if (month == 2) {
+    switch (month)
+    {
+    case 2:
         printf("28\n");
-    } else if (month == 4 || month == 6 || month == 9 || month == 11) {
+        break;
+    case 4:
         printf("30\n");
-    } else {
+        break;
+    case 6:
+        printf("30\n");
+        break;
+    case 9:
+        printf("30\n");
+        break;
+    case 11:
+        printf("30\n");
+        break;
+    
+    default:
         printf("31\n");
+        break;
     }
 }
 

@@ -4,14 +4,21 @@ int main() {
     int num1;
     scanf("%d", &num1);
 
-    if (num1 == 1) {
+    switch (num1)
+    {
+    case 1:
         printf("dog\n");
-    } else if (num1 == 2) {
+        break;
+    case 2:
         printf("cat\n");
-    } else if (num1 == 3) {
+        break;
+    case 3:
         printf("chick\n");
-    } else {
+        break;
+    
+    default:
         printf("blank\n");
+        break;
     }
 }
 

@@ -36,6 +36,12 @@
   - [문자와 문자열의 개요](#문자와-문자열의-개요)
   - [문자열 입출력과 함수](#문자열-입출력과-함수)
 
+------------------- [ 8주차 중간고사 ]  -------------------
+
+* [9주차](#9주차)
+  - [void형 포인터](#void형-포인터)
+
+
 <br><br>
 ## 3주차
 ### 제어문
@@ -640,6 +646,21 @@ int main() {
 * 문자열 처리 함수
   - <string.h> 헤더 파일에 정의
     <img width="1102" height="920" alt="Image" src="https://github.com/user-attachments/assets/7ee5ca31-fb57-482a-b3f3-f7573511eaa5" />
-    
+
+
+<br><br>
+## 9주차
+### 정올 - 정보올림피아드 & 알고리즘 ([링크](#https://jungol.co.kr/problemset/568?set=3))
+* LC_C언어(12판) - [코드](#https://jungol.co.kr/problemset/568?set=3)
+  - Ch.04 선택제어문
+  - Ch.05 반복제어문
+  - Ch.06 반복제어문
+  - Ch.07 반복제어문
+
+
+
+
+
+
       
 

@@ -15,6 +15,7 @@ int main() {
 
 // 결과
 // 입력 : 5
+// 출력
 // Hello for loop
 // Hello for loop
 // Hello for loop

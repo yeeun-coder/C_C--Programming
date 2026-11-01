@@ -39,7 +39,7 @@
 ------------------- [ 8주차 중간고사 ]  -------------------
 
 * [9주차](#9주차)
-  - [void형 포인터](#void형-포인터)
+  - [정올 - 정보올림피아드 & 알고리즘](#정올---정보올림피아드-&-알고리즘 )
 
 
 <br><br>
@@ -650,8 +650,9 @@ int main() {
 
 <br><br>
 ## 9주차
-### 정올 - 정보올림피아드 & 알고리즘 ([링크](#https://jungol.co.kr/problemset/568?set=3))
-* LC_C언어(12판) - [코드](#https://jungol.co.kr/problemset/568?set=3)
+### 정올 - 정보올림피아드 & 알고리즘 
+- [링크](#https://jungol.co.kr/problemset/568?set=3)
+* LC_C언어(12판) - [코드](#https://github.com/yeeun-coder/C_C--Programming/tree/eca3dfc2716395d8aa943b9f0ee6cd40581982d3/week09)
   - Ch.04 선택제어문
   - Ch.05 반복제어문
   - Ch.06 반복제어문

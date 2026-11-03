@@ -690,12 +690,14 @@ int main() {
 
 
 * 문자 입출력 함수
-  - _getch() 함수
-    - 사용자가 키보드로 입력한 문자 코드를 즉시 반환
-    - 입력된 문자가 화면에 표시되지 않기 때문에 비밀번호 입력과 같은 은밀한 입력에 유용
+  - getchar() 함수와 putchar() 함수
+    * _getch() 함수
+      - 사용자가 키보드로 입력한 문자 코드를 즉시 반환
+      - 입력된 문자가 화면에 표시되지 않기 때문에 비밀번호 입력과 같은 은밀한 입력에 유용
    
 * 문자 처리 함수 : 문자 처리 관련 함수를 사용하려면 <ins><ctype.h></ins> 헤더 파일 선언
-  - 
+  - <img width="458" height="401" alt="Image" src="https://github.com/user-attachments/assets/40f1c49b-b1fc-42da-8837-db0f9621f723" />
   - 실습 : [예제 11-7 문자 검사 함수 사용하기](#https://github.com/yeeun-coder/C_C--Programming/blob/3433ac5ed0dc03ee56a54e7fe20302b0538d900d/week10/exam11-7.c)
       
 
+실습 : [예제 11-12 문자열 처리 함수 사용하기](#)

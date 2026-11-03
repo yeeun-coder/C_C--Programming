@@ -731,7 +731,7 @@ int main() {
   - **구조체를 멤버 변수로 가진 구조체**
     - Employee 구조체는 직원의 이름과 주소 정보를 저장하는데, 여기서 주소 정보는 Address 구조체에 대한 <ins>포인터로 선언</ins>되어 있어 동적 메모리 할당을 통해 할당하거나 <ins>기존의 Address 구조체 변수 참조 가능</ins>
     - Employee 구조체의 멤버 address를 통해 Address 구조체의 멤버에 접근할 때는 화살표 연산자(->)를 사용
-    - 실습 : [예제 13-3 구조체를 사용하여 직원 정보 선언하고 저장하기](#)
+    - 실습 : [예제 13-3 구조체를 사용하여 직원 정보 선언하고 저장하기](#https://github.com/yeeun-coder/C_C--Programming/blob/fee32086bfba576405fa3e2576c0a012a27486ac/week10/exam13-3.c)
 
 
 

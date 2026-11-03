@@ -44,6 +44,8 @@
 * [10주차](#10주차)
   - [문자와 문자열의 개요](#문자와-문자열의-개요)
   - [문자 입출력과 함수](#문자-입출력과-함수)
+  - [구조체의 개요](#구조체의-개요)
+  - [구조체의 활용](#구조체의-활용)
 
 
 <br><br>
@@ -691,6 +693,10 @@ int main() {
 
 * 문자 입출력 함수
   - getchar() 함수와 putchar() 함수
+    * getchar() 함수와 putchar() 함수를 사용하려면 헤더 파일 선언
+    * getchar() 함수의 경우 반환값이 <ins>아스키코드 값으로 나올 수도 있기 때문</ins>에 반환 유형을 <ins>int형으로 작성</ins>
+    * getchar() 함수의 반환 유형이 int형인 주요 이유
+      - EOF 표현 (Ctrl + Z)
     * _getch() 함수
       - 사용자가 키보드로 입력한 문자 코드를 즉시 반환
       - 입력된 문자가 화면에 표시되지 않기 때문에 비밀번호 입력과 같은 은밀한 입력에 유용
@@ -701,5 +707,22 @@ int main() {
       
 * 문자열 처리 함수
   - <string.h> 헤더 파일에 정의
-    
-  - 실습 : [예제 11-12 문자열 처리 함수 사용하기](#https://github.com/yeeun-coder/C_C--Programming/blob/f782b8efa09c1d4f0daade14dd1b712c2cfd78e5/week10/exam11-12.c)
+    <img width="450" height="378" alt="Image" src="https://github.com/user-attachments/assets/ab9ac4f9-2940-49d9-b3bb-f07de1812e3f" />
+  - 실습 : [예제 11-12 문자열 처리 함수 사용하기](#https://github.com/yeeun-coder/C_C--Programming/blob/f782b8efa09c1d4f0daade14dd1b712c2cfd78e5/week10/exam11-12.c)  
+  
+ 
+### 구조체의 개요
+* 배열과 구조체의 차이
+  - 이름(name)과 성적(kor, eng, math, avg) 데이터를 배열로 구성하면 <ins>각기 다른 자료형을 함께 사용할 수 없어 데이터를 처리하는 데 한계</ins>가 있어 구조체를 이용하여 한계를 해결
+ 
+### 구조체의 활용
+* 구조체와 구조체 변수 선언
+  - 구조체는 <ins>struct</ins> 키워드를 사용하여 정의
+  - 학생에 대한 정보를 저장하는 구조체 선언은 다음과 같이 정의
+    - Student는 구조체의 이름이고 name, id, gradePoints는 각각 문자 배열, 정수, 실수 자료형 <ins>멤버</ins>
+  - <ins>Student 구조체를 정의</ins>하고 나면 해당 구조체의 <ins>변수 선언 가능</ins>
+   
+  - 구조체 변수 초기화 - 멤버를 정의한 순서대로 값을 할당해야 하며, 이 순서를 바꾸거나 누락 불가
+
+* 구조체 변수의 사용법 : 점(.) 연산자를 사용
+실습 : [예제 13-1 구조체를 사용하여 학생 성적 관리 프로그램 만들기](#)

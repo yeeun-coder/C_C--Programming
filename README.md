@@ -695,7 +695,7 @@ int main() {
     - 입력된 문자가 화면에 표시되지 않기 때문에 비밀번호 입력과 같은 은밀한 입력에 유용
    
 * 문자 처리 함수 : 문자 처리 관련 함수를 사용하려면 <ins><ctype.h></ins> 헤더 파일 선언
-   
-실습 : [예제 11-7](#https://github.com/yeeun-coder/C_C--Programming/blob/3433ac5ed0dc03ee56a54e7fe20302b0538d900d/week10/exam11-7.c)
+  - 
+  - 실습 : [예제 11-7 문자 검사 함수 사용하기](#https://github.com/yeeun-coder/C_C--Programming/blob/3433ac5ed0dc03ee56a54e7fe20302b0538d900d/week10/exam11-7.c)
       
 

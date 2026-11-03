@@ -689,8 +689,6 @@ int main() {
 
 
 ### 문자 입출력과 함수
-
-
 * 문자 입출력 함수
   - getchar() 함수와 putchar() 함수
     * getchar() 함수와 putchar() 함수를 사용하려면 헤더 파일 선언
@@ -727,5 +725,16 @@ int main() {
 * 구조체 변수의 사용법
   - 구조체의 멤버에 접근하려면 <ins>점(.) 연산자를 사용</ins>
   - **구조체의 멤버에 포인터를 통해 접근**
-    
-  - 실습 : [예제 13-1 구조체를 사용하여 학생 성적 관리 프로그램 만들기](#https://github.com/yeeun-coder/C_C--Programming/blob/8aeef16241796e04539b04479c33957339a97600/week10/exam13-1.c)
+    <img width="1242" height="416" alt="Image" src="https://github.com/user-attachments/assets/b2848195-1366-4e19-ad88-d81c5ea87da0" />
+    - 실습 : [예제 13-1 구조체를 사용하여 학생 성적 관리 프로그램 만들기](#https://github.com/yeeun-coder/C_C--Programming/blob/8aeef16241796e04539b04479c33957339a97600/week10/exam13-1.c)
+
+  - **구조체를 멤버 변수로 가진 구조체**
+    - Employee 구조체는 직원의 이름과 주소 정보를 저장하는데, 여기서 주소 정보는 Address 구조체에 대한 <ins>포인터로 선언</ins>되어 있어 동적 메모리 할당을 통해 할당하거나 <ins>기존의 Address 구조체 변수 참조 가능</ins>
+    - Employee 구조체의 멤버 address를 통해 Address 구조체의 멤버에 접근할 때는 화살표 연산자(->)를 사용
+    - 실습 : [예제 13-3 구조체를 사용하여 직원 정보 선언하고 저장하기](#)
+
+
+
+
+
+

@@ -699,5 +699,7 @@ int main() {
   - <img width="458" height="401" alt="Image" src="https://github.com/user-attachments/assets/40f1c49b-b1fc-42da-8837-db0f9621f723" />
   - 실습 : [예제 11-7 문자 검사 함수 사용하기](#https://github.com/yeeun-coder/C_C--Programming/blob/3433ac5ed0dc03ee56a54e7fe20302b0538d900d/week10/exam11-7.c)
       
-
-실습 : [예제 11-12 문자열 처리 함수 사용하기](#)
+* 문자열 처리 함수
+  - <string.h> 헤더 파일에 정의
+    
+  - 실습 : [예제 11-12 문자열 처리 함수 사용하기](#https://github.com/yeeun-coder/C_C--Programming/blob/f782b8efa09c1d4f0daade14dd1b712c2cfd78e5/week10/exam11-12.c)

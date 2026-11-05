@@ -4,17 +4,12 @@
 
 int main() {
     int num[100];
-    int cnt = 0;
 
     for (int i=0; i<100; i++) {
         scanf("%d", &num[i]);
         if (num[i] < 1 || num[i] > 12) {
             break;
         }
-        cnt++;
-    }
-
-    for (int i=0; i<cnt; i++) {
         if  (num[i] == 2) {
             printf("28\n");
         }
@@ -25,7 +20,6 @@ int main() {
             printf("31\n");
         }
     }
-    printf("\n");
 }
 
 

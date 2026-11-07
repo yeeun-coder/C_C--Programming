@@ -733,6 +733,7 @@ int main() {
     - Employee 구조체의 멤버 address를 통해 Address 구조체의 멤버에 접근할 때는 화살표 연산자(->)를 사용
     - 실습 : [예제 13-3 구조체를 사용하여 직원 정보 선언하고 저장하기](#https://github.com/yeeun-coder/C_C--Programming/blob/fee32086bfba576405fa3e2576c0a012a27486ac/week10/exam13-3.c)
 
+과제 : [정올-배열1, 배열2](#https://github.com/yeeun-coder/C_C--Programming/tree/e2d37d85b74ac130c0596850952ea29d4d2f5b1c/week10)
 
 
 

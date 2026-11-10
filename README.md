@@ -746,7 +746,7 @@ int main() {
 ### 구조체 포인터와 함수
 (10주차 PDF p.88부터)
 - 실습1 : [test.c](#https://github.com/yeeun-coder/C_C--Programming/blob/709dc98d85ed19bc1059ce8d8ce1498a07590888/week11/test.c)
-- 실습2 : [exam13-4 중첩 구조체 사용하기](#)
+- 실습2 : [exam13-4 중첩 구조체 사용하기](#https://github.com/yeeun-coder/C_C--Programming/blob/ce352272d4618d3761fa83f1e833be191ac883a9/week11/exam13-4.c)
 * 구조체를 참조하는 포인터
   - 구조체를 포인터 변수로도 사용할 수 있는데, 이러한 포인터 변수는 구조체 자체를 가리키는 포인터를 의미
   - 구조체를 값으로 전달하는 대신 포인터를 전달함으로써 메모리 사용을 줄이고 구조체의 내용을 함수 내에서 직접 수정 가능

@@ -758,7 +758,7 @@ int main() {
   * 구조체를 함수의 인수로 사용
     - 구조체의 복사본이 함수로 전달되는 형식
     - 실습1 : [exam13-8 구조체를 함수의 인수로 전달하기1](#https://github.com/yeeun-coder/C_C--Programming/blob/bc8aaa3bc735311e5614a9e9ea88b5e81e2d37ad/week11/exam13-8.c)
-    - 실습2 : [exam13-9 구조체를 함수의 인수로 전달하기2](#)
+    - 실습2 : [exam13-9 구조체를 함수의 인수로 전달하기2](#https://github.com/yeeun-coder/C_C--Programming/blob/b7eb72b6324ae65affde48fc02042432f7ced1be/week11/exam13-9.c)
 
 
 

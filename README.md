@@ -51,6 +51,9 @@
   - [구조체 포인터와 함수](#구조체-포인터와-함수)
   - [공용체](#공용체)
   - [열거형](#열거형)
+ 
+* [12주차](#12주차)
+  - [파일의 개요](#파일의-개요)
 
 
 <br><br>
@@ -773,6 +776,34 @@ int main() {
   - 열거형을 사용하려면 enum 키워드로 관련 상숫값을 정의한 후 열거형 변수를 선언하고 해당 변수에 열거형의 특정 멤버(상숫값)를 할당하거나 다른 열거형 변수와 비교하여 사용 가능
   - 코드가 <ins>더 읽기 쉽고</ins>, 오류가 발생할 가능성이 줄어들며, 프로그램의 <ins>의도를 명확히 표현 가능</ins>
   - 실습 : [exam13-12 열거형 사용하기](#https://github.com/yeeun-coder/C_C--Programming/blob/4ed13f04feba582f7288dcd457d9d30e637d0b96/week11/exam13-12.c)
+
+
+<br><br>
+## 12주차
+### 파일의 개요
+* 파일 처리
+  - 파일 열기
+    * 파일을 열 때는 fopen() 함수를 사용
+    * fopen() 함수는 파일의 경로와 모드(읽기, 쓰기, 추가 등)를 인자로 받으며 다음과 같이 선언
+      <img width="708" height="118" alt="스크린샷 2026-11-17 오전 10 27 50" src="https://github.com/user-attachments/assets/da3a5023-e305-4aae-b742-a4036180bb0c" />
+      ```c
+      FILE *file = fopen("example.txt", "r");
+      if (file == NULL) {
+        // 파일 열기 실패 처리
+      }
+        // 파일 사용
+      fclose(file);  // 파일 사용 후 반드시 닫기
+
+      ```
+      <img width="725" height="380" alt="스크린샷 2026-11-17 오전 10 41 05" src="https://github.com/user-attachments/assets/e41930f6-75e2-440d-b4ba-b63a3b7e4ec8" />
+
+
+
+
+
+
+
+
 
 
 

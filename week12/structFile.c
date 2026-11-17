@@ -1,3 +1,4 @@
+// 구조체와 파일 입출력을 활용한 학생 성적 프로그램
 #include <stdio.h>
 
 struct Student

@@ -786,7 +786,7 @@ int main() {
   - 대부분의 파일 시스템 에서 파일은 ‘이름’과 ‘확장자’를 지정하여 관리
   - 이름은 파일을 식별하는 데 사용
   - 확장자(.txt, .jpg, .exe)는 파일의 유형과 연결된 프로그램을 표현
-    <img width="522" height="239" alt="스크린샷 2026-11-17 오전 10 50 58" src="https://github.com/user-attachments/assets/e31dbd8f-99b3-488c-bc21-6124d30f6471" />
+  - <img width="522" height="239" alt="스크린샷 2026-11-17 오전 10 50 58" src="https://github.com/user-attachments/assets/e31dbd8f-99b3-488c-bc21-6124d30f6471" />
 
 * 파일 처리
   - FILE 구조체와 파일 선언

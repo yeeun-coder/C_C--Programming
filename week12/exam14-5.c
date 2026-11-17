@@ -25,3 +25,5 @@ int main() {
 
 
 // 결과 : twostring.txt 파일에 문자열 'C language, Text File!!!'를 성공적으로 썼습니다.
+
+// twostring.txt : C language, Text File!!!

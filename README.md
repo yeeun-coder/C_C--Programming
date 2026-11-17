@@ -796,7 +796,9 @@ int main() {
 
       ```
       <img width="725" height="380" alt="스크린샷 2026-11-17 오전 10 41 05" src="https://github.com/user-attachments/assets/e41930f6-75e2-440d-b4ba-b63a3b7e4ec8" />
-
+  
+  - 파일 닫기
+    * fopen() 함수로 연 파일은 fclose() 함수로 닫음
 
 
 

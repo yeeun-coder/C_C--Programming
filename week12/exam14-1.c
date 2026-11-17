@@ -26,3 +26,5 @@ int main() {
 
 
 // 결과 :  example.txt 파일에 데이터를 성공적으로 썼습니다.
+
+// example.txt : Hello, world!

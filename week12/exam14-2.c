@@ -5,7 +5,7 @@ int main() {
 	char filename[] = "example.txt";
 	char buffer[100];
 
-	// 파일을 쓰기 모드로 열기
+	// 파일을 읽기 모드로 열기
 	filePtr = fopen(filename, "r");
 
 	// 파일 열기 실패했는지 확인

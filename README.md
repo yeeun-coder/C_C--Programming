@@ -782,6 +782,11 @@ int main() {
 ## 12주차
 ### 파일의 개요
 * 파일 처리
+  - FILE 구조체와 파일 선언
+    * C언어에서는 파일이 표준 FILE형으로 정의되며, 이를 사용하려면 표준 입출력 헤더 파일 <ins><stdio.h></ins>를 포함하고 다음과 같이 선언
+      <img width="444" height="214" alt="스크린샷 2026-11-17 오전 10 47 13" src="https://github.com/user-attachments/assets/ab02d735-b6bb-48fe-8ab7-3bbf99d4a644" />
+      <img width="430" height="355" alt="스크린샷 2026-11-17 오전 10 47 40" src="https://github.com/user-attachments/assets/41cafe75-a022-4ef2-bd88-741f8b3b369f" />
+
   - 파일 열기
     * 파일을 열 때는 fopen() 함수를 사용
     * fopen() 함수는 파일의 경로와 모드(읽기, 쓰기, 추가 등)를 인자로 받으며 다음과 같이 선언
@@ -800,7 +805,7 @@ int main() {
   - 파일 닫기
     * fopen() 함수로 연 파일은 fclose() 함수로 닫음
    
-  - 실습 : [예제 14-1 파일 쓰기, exam14-1.c](#)
+  - 실습 : [예제 14-1 파일 쓰기, exam14-1.c](#https://github.com/yeeun-coder/C_C--Programming/blob/5b9b5c63e203f196b738b8d3848437574016a1aa/week12/exam14-1.c)
 
 
 

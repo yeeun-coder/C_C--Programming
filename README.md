@@ -666,8 +666,8 @@ int main() {
 <br><br>
 ## 9주차
 ### 정올(정보올림피아드 & 알고리즘)
-- [링크](#https://jungol.co.kr/problemset/568?set=3)
-* LC_C언어(12판) - [코드](#https://github.com/yeeun-coder/C_C--Programming/tree/eca3dfc2716395d8aa943b9f0ee6cd40581982d3/week09)
+- [링크](https://jungol.co.kr/problemset/568?set=3)
+* LC_C언어(12판) - [코드](https://github.com/yeeun-coder/C_C--Programming/tree/eca3dfc2716395d8aa943b9f0ee6cd40581982d3/week09)
   - Ch.04 선택제어문
   - Ch.05 반복제어문
   - Ch.06 반복제어문
@@ -710,12 +710,12 @@ int main() {
    
 * 문자 처리 함수 : 문자 처리 관련 함수를 사용하려면 <ins><ctype.h></ins> 헤더 파일 선언
   - <img width="458" height="401" alt="Image" src="https://github.com/user-attachments/assets/40f1c49b-b1fc-42da-8837-db0f9621f723" />
-  - 실습 : [예제 11-7 문자 검사 함수 사용하기](#https://github.com/yeeun-coder/C_C--Programming/blob/3433ac5ed0dc03ee56a54e7fe20302b0538d900d/week10/exam11-7.c)
+  - 실습 : [예제 11-7 문자 검사 함수 사용하기](https://github.com/yeeun-coder/C_C--Programming/blob/3433ac5ed0dc03ee56a54e7fe20302b0538d900d/week10/exam11-7.c)
       
 * 문자열 처리 함수
   - <string.h> 헤더 파일에 정의
     <img width="450" height="378" alt="Image" src="https://github.com/user-attachments/assets/ab9ac4f9-2940-49d9-b3bb-f07de1812e3f" />
-  - 실습 : [예제 11-12 문자열 처리 함수 사용하기](#https://github.com/yeeun-coder/C_C--Programming/blob/f782b8efa09c1d4f0daade14dd1b712c2cfd78e5/week10/exam11-12.c)  
+  - 실습 : [예제 11-12 문자열 처리 함수 사용하기](https://github.com/yeeun-coder/C_C--Programming/blob/f782b8efa09c1d4f0daade14dd1b712c2cfd78e5/week10/exam11-12.c)  
   
  
 ### 구조체의 개요
@@ -735,22 +735,22 @@ int main() {
   - 구조체의 멤버에 접근하려면 <ins>점(.) 연산자를 사용</ins>
   - **구조체의 멤버에 포인터를 통해 접근**
     <img width="1242" height="416" alt="Image" src="https://github.com/user-attachments/assets/b2848195-1366-4e19-ad88-d81c5ea87da0" />
-    - 실습 : [예제 13-1 구조체를 사용하여 학생 성적 관리 프로그램 만들기](#https://github.com/yeeun-coder/C_C--Programming/blob/8aeef16241796e04539b04479c33957339a97600/week10/exam13-1.c)
+    - 실습 : [예제 13-1 구조체를 사용하여 학생 성적 관리 프로그램 만들기](https://github.com/yeeun-coder/C_C--Programming/blob/8aeef16241796e04539b04479c33957339a97600/week10/exam13-1.c)
 
   - **구조체를 멤버 변수로 가진 구조체**
     - Employee 구조체는 직원의 이름과 주소 정보를 저장하는데, 여기서 주소 정보는 Address 구조체에 대한 <ins>포인터로 선언</ins>되어 있어 동적 메모리 할당을 통해 할당하거나 <ins>기존의 Address 구조체 변수 참조 가능</ins>
     - Employee 구조체의 멤버 address를 통해 Address 구조체의 멤버에 접근할 때는 화살표 연산자(->)를 사용
-    - 실습 : [예제 13-3 구조체를 사용하여 직원 정보 선언하고 저장하기](#https://github.com/yeeun-coder/C_C--Programming/blob/fee32086bfba576405fa3e2576c0a012a27486ac/week10/exam13-3.c)
+    - 실습 : [예제 13-3 구조체를 사용하여 직원 정보 선언하고 저장하기](https://github.com/yeeun-coder/C_C--Programming/blob/fee32086bfba576405fa3e2576c0a012a27486ac/week10/exam13-3.c)
 
-과제 : [정올-배열1, 배열2](#https://github.com/yeeun-coder/C_C--Programming/tree/e2d37d85b74ac130c0596850952ea29d4d2f5b1c/week10)
+과제 : [정올-배열1, 배열2](https://github.com/yeeun-coder/C_C--Programming/tree/e2d37d85b74ac130c0596850952ea29d4d2f5b1c/week10)
 
 
 <br><br>
 ## 11주차
 ### 구조체 포인터와 함수
 (10주차 PDF p.88부터)
-- 실습1 : [test.c](#https://github.com/yeeun-coder/C_C--Programming/blob/709dc98d85ed19bc1059ce8d8ce1498a07590888/week11/test.c)
-- 실습2 : [exam13-4 중첩 구조체 사용하기](#https://github.com/yeeun-coder/C_C--Programming/blob/ce352272d4618d3761fa83f1e833be191ac883a9/week11/exam13-4.c)
+- 실습1 : [test.c](https://github.com/yeeun-coder/C_C--Programming/blob/709dc98d85ed19bc1059ce8d8ce1498a07590888/week11/test.c)
+- 실습2 : [exam13-4 중첩 구조체 사용하기](https://github.com/yeeun-coder/C_C--Programming/blob/ce352272d4618d3761fa83f1e833be191ac883a9/week11/exam13-4.c)
 * 구조체를 참조하는 포인터
   - 구조체를 포인터 변수로도 사용할 수 있는데, 이러한 포인터 변수는 구조체 자체를 가리키는 포인터를 의미
   - 구조체를 값으로 전달하는 대신 포인터를 전달함으로써 메모리 사용을 줄이고 구조체의 내용을 함수 내에서 직접 수정 가능
@@ -763,8 +763,8 @@ int main() {
 * 구조체와 함수
   * 구조체를 함수의 인수로 사용
     - 구조체의 복사본이 함수로 전달되는 형식
-    - 실습1 : [exam13-8 구조체를 함수의 인수로 전달하기1](#https://github.com/yeeun-coder/C_C--Programming/blob/bc8aaa3bc735311e5614a9e9ea88b5e81e2d37ad/week11/exam13-8.c)
-    - 실습2 : [exam13-9 구조체를 함수의 인수로 전달하기2](#https://github.com/yeeun-coder/C_C--Programming/blob/b7eb72b6324ae65affde48fc02042432f7ced1be/week11/exam13-9.c)
+    - 실습1 : [exam13-8 구조체를 함수의 인수로 전달하기1](https://github.com/yeeun-coder/C_C--Programming/blob/bc8aaa3bc735311e5614a9e9ea88b5e81e2d37ad/week11/exam13-8.c)
+    - 실습2 : [exam13-9 구조체를 함수의 인수로 전달하기2](https://github.com/yeeun-coder/C_C--Programming/blob/b7eb72b6324ae65affde48fc02042432f7ced1be/week11/exam13-9.c)
 
 
 ### 공용체
@@ -776,7 +776,7 @@ int main() {
 * 열거형의 사용법
   - 열거형을 사용하려면 enum 키워드로 관련 상숫값을 정의한 후 열거형 변수를 선언하고 해당 변수에 열거형의 특정 멤버(상숫값)를 할당하거나 다른 열거형 변수와 비교하여 사용 가능
   - 코드가 <ins>더 읽기 쉽고</ins>, 오류가 발생할 가능성이 줄어들며, 프로그램의 <ins>의도를 명확히 표현 가능</ins>
-  - 실습 : [exam13-12 열거형 사용하기](#https://github.com/yeeun-coder/C_C--Programming/blob/4ed13f04feba582f7288dcd457d9d30e637d0b96/week11/exam13-12.c)
+  - 실습 : [exam13-12 열거형 사용하기](https://github.com/yeeun-coder/C_C--Programming/blob/4ed13f04feba582f7288dcd457d9d30e637d0b96/week11/exam13-12.c)
 
 
 <br><br>
@@ -817,8 +817,8 @@ int main() {
   - 파일 닫기
     * fopen() 함수로 연 파일은 fclose() 함수로 닫음
    
-  - 실습1 : [예제 14-1 파일 쓰기, exam14-1.c](#https://github.com/yeeun-coder/C_C--Programming/blob/5b9b5c63e203f196b738b8d3848437574016a1aa/week12/exam14-1.c)
-  - 실습2 : [예제 14-2 파일 읽기, exam14-2.c](#https://github.com/yeeun-coder/C_C--Programming/blob/c32dadbcf3c9827d7711e49ad1273af5715ea3ae/week12/exam14-2.c)
+  - 실습1 : [예제 14-1 파일 쓰기, exam14-1.c](https://github.com/yeeun-coder/C_C--Programming/blob/5b9b5c63e203f196b738b8d3848437574016a1aa/week12/exam14-1.c)
+  - 실습2 : [예제 14-2 파일 읽기, exam14-2.c](https://github.com/yeeun-coder/C_C--Programming/blob/c32dadbcf3c9827d7711e49ad1273af5715ea3ae/week12/exam14-2.c)
 
 
 ### 텍스트 파일 처리

@@ -830,7 +830,9 @@ int main() {
   - fgetc(), fputc() 함수의 기본 동작
     <img width="488" height="242" alt="스크린샷 2026-11-17 오전 11 42 20" src="https://github.com/user-attachments/assets/56fe72e1-b86e-49c4-8ae5-6fae30bb8107" />
 
-  - 실습 : [예제 14-5 텍스트 파일에서 문자열 단위로 쓰기, exam14-5.c]()
+  - 실습 : [예제 14-5 텍스트 파일에서 문자열 단위로 쓰기, exam14-5.c](https://github.com/yeeun-coder/C_C--Programming/blob/e521154678d0009750f419e23249ffd9220ff948/week12/exam14-5.c)
+
+ * 실습 : [구조체 + 텍스트 파일 처리]()
 
 
 

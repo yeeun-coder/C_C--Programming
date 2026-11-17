@@ -817,7 +817,7 @@ int main() {
     * fopen() 함수로 연 파일은 fclose() 함수로 닫음
    
   - 실습1 : [예제 14-1 파일 쓰기, exam14-1.c](#https://github.com/yeeun-coder/C_C--Programming/blob/5b9b5c63e203f196b738b8d3848437574016a1aa/week12/exam14-1.c)
-  - 실습2 : [예제 14-2 파일 읽기, exam14-2.c](#)
+  - 실습2 : [예제 14-2 파일 읽기, exam14-2.c](#https://github.com/yeeun-coder/C_C--Programming/blob/c32dadbcf3c9827d7711e49ad1273af5715ea3ae/week12/exam14-2.c)
 
 
 

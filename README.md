@@ -781,8 +781,19 @@ int main() {
 <br><br>
 ## 12주차
 ### 파일의 개요
+* 파일의 구조
+  - 데이터를 파일에 저장하고 관리하기 위해 먼저 파일의 구조 확인
+  - 대부분의 파일 시스템 에서 파일은 ‘이름’과 ‘확장자’를 지정하여 관리
+  - 이름은 파일을 식별하는 데 사용
+  - 확장자(.txt, .jpg, .exe)는 파일의 유형과 연결된 프로그램을 표현
+    <img width="522" height="239" alt="스크린샷 2026-11-17 오전 10 50 58" src="https://github.com/user-attachments/assets/e31dbd8f-99b3-488c-bc21-6124d30f6471" />
+
 * 파일 처리
   - FILE 구조체와 파일 선언
+    * <stdio.h>에 정의된 FILE 구조체
+      <img width="712" height="345" alt="스크린샷 2026-11-17 오전 10 49 02" src="https://github.com/user-attachments/assets/9188dce7-f3d1-4c1a-8fe8-67c4c98e9720" />
+
+  
     * C언어에서는 파일이 표준 FILE형으로 정의되며, 이를 사용하려면 표준 입출력 헤더 파일 <ins><stdio.h></ins>를 포함하고 다음과 같이 선언
       <img width="444" height="214" alt="스크린샷 2026-11-17 오전 10 47 13" src="https://github.com/user-attachments/assets/ab02d735-b6bb-48fe-8ab7-3bbf99d4a644" />
       <img width="430" height="355" alt="스크린샷 2026-11-17 오전 10 47 40" src="https://github.com/user-attachments/assets/41cafe75-a022-4ef2-bd88-741f8b3b369f" />
